@@ -1,0 +1,19 @@
+{
+  "name": "react-product-tracker",
+  "version": "1.0.0",
+  "description": "Product tracker app written in React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffmjwong/react-product-tracker.git"
+  },
+  "author": "Jeff Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffmjwong/react-product-tracker/issues"
+  },
+  "homepage": "https://github.com/jeffmjwong/react-product-tracker#readme"
+}
