@@ -4,7 +4,7 @@
   "description": "Product tracker app written in React.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "nuke": "rimraf dist && rimraf node_modules"
   },
   "repository": {
     "type": "git",
