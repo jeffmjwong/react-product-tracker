@@ -4,7 +4,8 @@
   "description": "Product tracker app written in React.",
   "main": "index.js",
   "scripts": {
-    "nuke": "rimraf dist && rimraf node_modules"
+    "nuke": "rimraf dist && rimraf node_modules",
+    "dev": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
