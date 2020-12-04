@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jeffmjwong/react-product-tracker/issues"
   },
-  "homepage": "https://github.com/jeffmjwong/react-product-tracker#readme"
+  "homepage": "https://github.com/jeffmjwong/react-product-tracker#readme",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
 }
