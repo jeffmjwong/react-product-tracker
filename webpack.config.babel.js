@@ -34,14 +34,16 @@ const frontConfig = {
   }
 };
 
-const backConfig = {
-  entry: "./server.js",
-  mode: "development",
-  target: "node",
-  output: {
-    path: resolve("dist"),
-    filename: "server.js"
-  }
-};
+export default frontConfig;
 
-export default [frontConfig, backConfig];
+// const backConfig = {
+//   entry: "./server.js",
+//   mode: "development",
+//   target: "node",
+//   output: {
+//     path: resolve("dist"),
+//     filename: "server.js"
+//   }
+// };
+
+// export default [frontConfig, backConfig];
